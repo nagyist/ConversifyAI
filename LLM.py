@@ -59,6 +59,7 @@ class ChatModel:
         )
     
     def PromptEngineering(self):
+        
         # Define the prompt template
         prompt_template = """
         * Your name is **FITNESS RAT**, a fitness chatbot designed to motivate and guide people on their fitness journey. 
