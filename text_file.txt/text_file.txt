@@ -14,7 +14,7 @@ on our Security best practices to make sure you're developing safely with LangCh
 of tools that integrate with our framework and build on top of it. Check out our growing list of integrations
 . Check out the developer's guide for guidelines on contributing and help getting your dev environment set up. Introduction On
 this page Introduction LangChain is a framework for developing applications powered by large language models (LLMs). LangChain simplifies every stage
-of the LLM application lifecycle: Development : Build your applications using LangChain's open-source building blocks , components , and third-party
+of the LLM application lifecycle: Development: Build your applications using LangChain's open-source building blocks , components , and third-party
 integrations . Use LangGraph to build stateful agents with first-class streaming and human-in-the-loop support. Productionization : Use LangSmith to inspect,
 monitor and evaluate your chains, so that you can continuously optimize and deploy with confidence. Deployment : Turn your LangGraph
 applications into production-ready APIs and Assistants with LangGraph Cloud . Concretely, the framework consists of the following open-source libraries: langchain-core
