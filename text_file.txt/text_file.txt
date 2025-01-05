@@ -1,7 +1,7 @@
 Introduction LangChain is a framework for developing applications powered by large language models (LLMs). LangChain simplifies every stage of the
 LLM application lifecycle: Concretely, the framework consists of the following open-source libraries: These docs focus on the Python LangChain library.
 Head here for docs on the JavaScript LangChain library. If you're looking to build something specific or are more of
-a hands-on learner, check out our tutorials section . This is the best place to get started. These are the
+a hands-on learner, check out our tutorials section. This is the best place to get started. These are the
 best ones to get started with: Explore the full list of LangChain tutorials here , and check out other LangGraph
 tutorials here . Here you’ll find short answers to “How do I….?” types of questions. These how-to guides don’t cover
 topics in depth – you’ll find that material in the Tutorials and the API Reference . However, these guides will
