@@ -101,7 +101,7 @@ class ChatModel:
         return input_text[:earliest_position].strip()
     
     def generateResponse(self, prompt):
-        # Generate a response using the prompt chain
+        # Generate a response using the prompt chainn
         response = self.PromptEngineering().invoke(prompt)
         response = response['text']
         response = self.clean_string(response)
