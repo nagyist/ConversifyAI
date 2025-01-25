@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-
+# Scrape 
 class Scraper:
     def __init__(self):
         self.previous_url = None
