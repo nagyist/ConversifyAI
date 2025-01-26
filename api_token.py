@@ -3,7 +3,7 @@ class LargeLanguageModel():
         pass
     
     def get_Key(self):
-        __api_key = "YOUR_API_KEY"
+        __api_key = "API_KEY"
         return __api_key
     
     def get_gpt_key(self):
