@@ -1,5 +1,4 @@
 import warnings as wn
-
 # Ignore warning messages
 wn.filterwarnings('ignore')
 # Langchain is the library for support LLMs doing advance tasks
