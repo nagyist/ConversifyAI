@@ -5,7 +5,6 @@ wn.filterwarnings('ignore')
 import os
 import shutil
 
-
 from langchain.prompts import PromptTemplate
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
