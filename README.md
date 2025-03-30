@@ -9,7 +9,6 @@
 
 ![image](https://miro.medium.com/v2/resize:fit:2000/1*-0ROJw3TW0-06m7QckWlPQ.png)
 
-
 ### Key Components
 
 
