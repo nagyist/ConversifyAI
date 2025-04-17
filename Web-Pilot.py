@@ -10,6 +10,7 @@ from PIL import Image
 import io
 import base64
 
+
 st.set_page_config(
     page_title='Conversify AI', 
     layout = 'centered',
