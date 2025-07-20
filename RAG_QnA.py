@@ -2,7 +2,6 @@ import warnings as wn
 # Ignore warning messages
 wn.filterwarnings('ignore')
 
-
 from langchain_community.llms import HuggingFaceHub
 from api_token import LargeLanguageModel
 from langchain_huggingface import HuggingFaceEndpoint
